@@ -1,1 +1,1 @@
-This program prints "hello world"ect
+This program asks the user for their name, and then says hello to them
