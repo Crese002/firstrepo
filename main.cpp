@@ -5,6 +5,6 @@
 int main()
 {
 	std::cout << "hello world, how are you today? you havent answered the last 3 times I asked, but maybe you will this time." << std::endl;
-	return 1;
+	return 0;
 }
 
